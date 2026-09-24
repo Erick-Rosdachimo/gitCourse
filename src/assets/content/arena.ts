@@ -3,7 +3,7 @@ import type { ArenaState } from "_types/arena";
 
 export const areaContent: ArenaState[] = [
   {
-    attribute: "recordeSupino",
+    attribute: "estilo",
     deckA: "a-trojahn",
     deckB: "b-pedro",
     playerAName: "Rosdachimo",
